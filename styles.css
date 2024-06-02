@@ -32,8 +32,8 @@ body {
 	position: absolute;
 	font-size: 35px;
 	color: white;
-	padding: 10px;
-	top: 5%;
+	padding: 0px;
+	top: 0;
 	right: 5%;
 	transform: translateX(50%);
 	background-color: transparent;
