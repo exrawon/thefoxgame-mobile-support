@@ -30,12 +30,12 @@ body {
 
 #fullScreenButton {
 	position: absolute;
-	font-size: 35px;
+	font-size: 40px;
 	color: white;
-	padding: 0px;
-	top: 0;
-	right: 5%;
-	transform: translateX(50%);
+	padding: 10px;
+	top: 10px;
+	left: 50%;
+	transform: translateX(-50%);
 	background-color: transparent;
 	border: transparent;
 	opacity: 50%;
